@@ -1,0 +1,19 @@
+AYRADE SSH Configuration
+
+Server:
+AlmaLinux
+
+SSH Service:
+sshd
+
+SSH Port:
+22
+
+Network Interface:
+enp0s3
+
+Access Method:
+SSH from Windows
+
+Test Result:
+SSH connection from the Windows host to the AlmaLinux server was successful.
