@@ -1,0 +1,22 @@
+AYRADE Apache Web Server
+
+Operating System:
+AlmaLinux
+
+Web Server:
+Apache HTTP Server (httpd)
+
+HTTP Port:
+80
+
+Web Root:
+/var/www/html
+
+Service:
+httpd
+
+Status:
+Running
+
+Test:
+The website was successfully accessed from a mobile phone on the same network.
