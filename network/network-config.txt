@@ -1,0 +1,6 @@
+AYRADE Network Configuration
+
+Network:
+- Server IP: 192.168.1.12
+- HTTP Port: 80
+- SSH Port: 22

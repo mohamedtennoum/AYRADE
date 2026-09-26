@@ -1,0 +1,16 @@
+# AYRADE Installation
+
+## Requirements
+
+- Windows
+- VirtualBox
+- Linux Server ISO
+- Apache Web Server
+
+## Installation
+
+1. Create the virtual machine.
+2. Install Linux.
+3. Configure the network.
+4. Install Apache.
+5. Test the web server.
